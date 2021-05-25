@@ -8,6 +8,9 @@ export const GlobalStyle = createGlobalStyle`
    color: #f8049c;
    font-family: 'Pattaya', sans-serif;
 
+>h1{
+  font-size: 1.8rem;
+}
  }
 
 
